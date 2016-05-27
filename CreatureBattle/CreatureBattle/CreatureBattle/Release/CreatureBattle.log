@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(108): warning C4101: 'msg': unreferenced local variable
+  Generating code
+  1 of 70 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CreatureBattle.vcxproj -> C:\Users\zzDeagle545zz\Desktop\CreatureBattle\CreatureBattle\Release\CreatureBattle.exe
