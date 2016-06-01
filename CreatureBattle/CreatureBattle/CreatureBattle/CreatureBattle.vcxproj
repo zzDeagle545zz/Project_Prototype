@@ -155,7 +155,14 @@
     <Image Include="Image.png" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Ability.cpp" />
+    <ClCompile Include="Creature.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ability.h" />
+    <ClInclude Include="Creature.h" />
+    <ClInclude Include="Element.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
